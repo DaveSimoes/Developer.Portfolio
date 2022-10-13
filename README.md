@@ -45,7 +45,7 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 
 Para clonar este repositório, você irá precisar `node.js` and `git` instalado no seu computador.
 
-## 🛠 Installation and Setup Instructions
+## 🛠 Installation and Setup Instructions /Instruções para instalação.
 
 1. Installation: `npm install`
 
