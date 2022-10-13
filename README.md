@@ -59,7 +59,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 #
 
-## OBS: Este projeto foi criado originalmente por meio de um fork feito do repositório [smaranjitghose/awesome-portfolio-websites](http://https://portfolio.smaranjitghose.com/) e feito algumas modificações por mim de acordo com meu curriculo e skills.
+## OBS: Este projeto foi criado originalmente por meio de um fork feito do repositório [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) e feito algumas modificações por mim de acordo com meu curriculo e skills.
  
 ## OBS: This repository was forked [smaranjitghose/awesome-portfolio-websites](http://https://portfolio.smaranjitghose.com/) and made some features changes according my resume and skills
 #
