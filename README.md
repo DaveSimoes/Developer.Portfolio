@@ -52,9 +52,7 @@ Para clonar este repositório, você irá precisar `node.js` and `git` instalado
 2. In the project directory, you can run: `npm start`
 
 
-Este repositório foi criado originalmente de um fork do repositório [smaranjitghose/awesome-portfolio-websites](http://https://portfolio.smaranjitghose.com/) e feito algumas modificações por mim de acordo com curriculo e conhecimento.
- 
-This repository was forked [smaranjitghose/awesome-portfolio-websites](http://https://portfolio.smaranjitghose.com/) and made some features changes according my resume and skills
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
