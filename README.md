@@ -24,9 +24,9 @@
 ## Built With
 
 
-My personal portfolio <a href="https://portfoliodavids.netlify.app/" target="_blank">portfolio david`s</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal  <a href="https://portfoliodavids.netlify.app/" target="_blank">portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
-Meu Portfolio <a href="https://portfoliodavids.netlify.app/" target="_blank">portfolio david`s</a> o qual apresenta alguns dos meus projetos no github, bem como meu currículo e habilidades técnicas.<br/>
+Meu  <a href="https://portfoliodavids.netlify.app/" target="_blank">website pessoal</a> o qual apresenta alguns dos meus projetos no github, bem como meu currículo e habilidades técnicas.<br/>
 
 
 
