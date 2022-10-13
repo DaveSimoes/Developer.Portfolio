@@ -1,10 +1,10 @@
 <h2 align="center">
-  Portfolio Website<br/>
-  <a href="https://portfoliodavids.netlify.app/" target="_blank">Dave Codes</a>
+  Personal Website<br/>
+  <a href="https://portfoliodavids.netlify.app/" target="_blank">Dave Portfolio</a>
 </h2>
 
-<h2 align="center"> Portfolio construído com JavaScript, HTML e CSS </h2>
 <h2 align="center"> Personal website build with JavaScript, HTML and CSS </h2>
+<h2 align="center"> Portfolio construído com JavaScript, HTML e CSS </h2>
 
 
 
@@ -19,3 +19,52 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
+
+
+## Built With
+
+
+My personal portfolio <a href="https://portfoliodavids.netlify.app/" target="_blank">portfolio david`s</a> which features some of my github projects as well as my resume and technical skills.<br/>
+
+Meu Portfolio <a href="https://portfoliodavids.netlify.app/" target="_blank">portfolio david`s</a> o qual apresenta alguns dos meus projetos no github, bem como meu currículo e habilidades técnicas.<br/>
+
+
+
+This project was built using these technologies.
+
+Este projeto foi construido usando estas technologias.
+- JavaScript
+- HTML
+- CSS3
+- VsCode
+
+## Getting Started
+## Para Começar
+
+Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+
+Para clonar este repositório, você irá precisar `node.js` and `git` instalado no seu computador.
+
+## 🛠 Installation and Setup Instructions
+
+1. Installation: `npm install`
+
+2. In the project directory, you can run: `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The page will reload if you make edits.
+#
+### Show your support
+### Nos dê uma força
+Give a ⭐ if you like this website!
+
+Dê uma ⭐ se vc gostou desse portfolio!
+
+
+
+
+
+
+
+
