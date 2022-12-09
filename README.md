@@ -4,7 +4,7 @@
 </h2>
 
 <h2 align="center"> Personal website build with JavaScript, HTML and CSS </h2>
-<h2 align="center"> Portfolio construído com JavaScript, HTML e CSS </h2>
+
 
 
 
