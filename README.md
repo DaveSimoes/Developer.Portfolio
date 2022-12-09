@@ -26,7 +26,6 @@
 
 My personal  <a href="https://portfoliodavids.netlify.app/" target="_blank">portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
-Meu  <a href="https://portfoliodavids.netlify.app/" target="_blank">website pessoal</a> o qual apresenta alguns dos meus projetos no github, bem como meu currículo e habilidades técnicas.<br/>
 
 
 
@@ -39,11 +38,10 @@ Este projeto foi construido usando estas technologias.
 - VsCode
 
 ## Getting Started
-## Para Começar
+
 
 Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
-Para clonar este repositório, você irá precisar `node.js` and `git` instalado no seu computador.
 
 ## 🛠 Installation and Setup Instructions /Instruções para instalação.
 
@@ -59,9 +57,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 #
 
-## OBS: Este projeto foi criado originalmente por meio de um fork feito do repositório [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) e feito algumas modificações por mim de acordo com meu curriculo e skills.
- 
-## OBS: This repository was forked [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites) and made some features changes according my resume and skills
+
 #
 
 
@@ -70,7 +66,7 @@ The page will reload if you make edits.
 
 ### Give a ⭐ if you like this website!
 
-### Dê uma ⭐ se vc gostou desse portfolio!
+
 
 
 
