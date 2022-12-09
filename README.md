@@ -61,7 +61,7 @@ The page will reload if you make edits.
 #
 
 
- <h2 align= "center">Show your support! / Nos dê seu apoio!</h2>
+ <h2 align= "center">Show your support!</h2>
 
 
 ### Give a ⭐ if you like this website!
