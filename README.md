@@ -29,9 +29,7 @@ My personal  <a href="https://portfoliodavids.netlify.app/" target="_blank">port
 
 
 
-This project was built using these technologies.
-
-Este projeto foi construido usando estas technologias.
+This project was built using these technologies:
 - JavaScript
 - HTML
 - CSS3
@@ -55,13 +53,13 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
-#
 
 
 #
 
 
- <h2 align= "center">Show your support!</h2>
+ <h2 align= "center">Show your support! </br>
+Thank You !</h2>
 
 
 ### Give a ⭐ if you like this website!
