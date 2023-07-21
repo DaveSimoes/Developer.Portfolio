@@ -24,7 +24,7 @@
 ## Built With
 
 
-My personal  <a href="https://portfoliodavids.netlify.app/" target="_blank">portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
+Portfolio Template for Developers  <a href="https://portfoliodavids.netlify.app/" target="_blank">portfolio</a> which features some examples of projects.<br/>
 
 
 
