@@ -3,7 +3,7 @@
   <a href="https://portfoliodavids.netlify.app/" target="_blank">Dave Portfolio</a>
 </h2>
 
-<h2 align="center"> Personal website build with JavaScript, HTML and CSS </h2>
+<h2 align="center"> Portfolio Template for Developers 🚀 built with JavaScript, HTML and CSS </h2>
 
 
 
