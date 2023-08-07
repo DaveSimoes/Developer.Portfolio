@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Template<br/>
-  <a href="https://portfoliodavids.netlify.app/" target="_blank">Dave Portfolio</a>
+  <a href="https://portfoliodavids.netlify.app/" target="_blank">David Portfolio</a>
 </h2>
 
 <h2 align="center"> Portfolio Template for Developers 🚀 built with JavaScript, HTML and CSS </h2>
